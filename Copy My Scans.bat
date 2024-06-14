@@ -1,5 +1,5 @@
-Rem Clears command prompt for readability.
 @echo off
+Rem Clears command prompt for readability.
 
 :start
 
